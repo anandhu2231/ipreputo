@@ -29,10 +29,10 @@ The first time you run the tool, it will prompt you to enter API keys for **Viru
 
 ## ⚡ Usage
 ```bash
-ipreputo -i input_file.csv -o output_file.csv
+ipreputo -i input_file.csv output_file.csv
 ```
 - **`-i`**: Input file (CSV or Excel format with an `IP` column).
-- **`-o`**: Output file (CSV or Excel format where results will be saved).
+- : Output file (CSV or Excel format where results will be saved).
 
 ### Example
 ```bash
