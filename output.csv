@@ -1,0 +1,34 @@
+IP,ISP,Location,VirusTotal Malicious,AlienVault Pulse Count,PulseDive Risk,AbuseIPDB Confidence Score,Category
+8.8.8.8,Google LLC,"Ashburn, Virginia, United States",0,0,Unknown,0,Non-Malicious
+1.1.1.1,"Cloudflare, Inc","South Brisbane, Queensland, Australia",0,0,Unknown,0,Non-Malicious
+192.168.1.1,Unknown,", , ",0,0,Unknown,0,Non-Malicious
+172.16.0.1,Unknown,", , ",0,0,Unknown,0,Non-Malicious
+10.0.0.1,Unknown,", , ",0,0,Unknown,0,Non-Malicious
+45.33.32.156,"Akamai Technologies, Inc.","Fremont, California, United States",2,3,Unknown,0,Malicious
+104.244.42.1,Twitter Inc.,"San Francisco, California, United States",0,50,Unknown,25,Malicious
+185.176.27.241,OKB PROGRESS LLC,"Moscow, Moscow, Russia",1,7,Unknown,0,Malicious
+5.188.206.170,e-mail: noc@fastvps.biz,"Golden, Colorado, United States",2,0,Unknown,0,Malicious
+222.186.30.115,Chinanet,"Nanjing, Jiangsu, China",0,0,Unknown,0,Non-Malicious
+185.220.101.1,Stiftung Erneuerbare Freiheit,"Brandenburg, Brandenburg, Germany",11,50,Unknown,100,Malicious
+23.129.64.111,Emerald Onion,"Seattle, Washington, United States",0,0,Unknown,0,Non-Malicious
+109.70.100.33,Foundation for Applied Privacy,"Vienna, Vienna, Austria",4,50,Unknown,0,Malicious
+162.247.74.200,The Calyx Institute,"New York, New York, United States",10,50,Unknown,61,Malicious
+185.220.102.244,Stiftung Erneuerbare Freiheit,"Berlin, Land Berlin, Germany",4,50,Unknown,0,Malicious
+45.155.205.86,"""Cloud Technologies"" LLC trading as Cloud.ru","St Petersburg, St.-Petersburg, Russia",2,35,Unknown,0,Malicious
+209.141.43.99,FranTech Solutions,"Las Vegas, Nevada, United States",0,0,Unknown,0,Non-Malicious
+95.211.118.194,LeaseWeb Netherlands B.V.,"Amsterdam, North Holland, The Netherlands",0,50,Unknown,0,Malicious
+185.220.103.8,The Calyx Institute,"Brooklyn, New York, United States",4,50,Unknown,36,Malicious
+66.70.234.192,OVH Hosting,"Newark, New Jersey, United States",0,0,Unknown,0,Non-Malicious
+103.253.25.173,EN Technologies Pte Ltd,"Singapore, South West, Singapore",0,0,Unknown,0,Non-Malicious
+185.220.102.6,Stiftung Erneuerbare Freiheit,"Dresden, Saxony, Germany",7,50,Unknown,0,Malicious
+193.32.127.132,31173 Services AB,"Zurich, Zurich, Switzerland",0,0,Unknown,0,Non-Malicious
+185.220.102.4,Stiftung Erneuerbare Freiheit,"Dresden, Saxony, Germany",5,50,Unknown,0,Malicious
+37.252.185.158,IPAX GmbH,"Vienna, Vienna, Austria",0,0,Unknown,0,Non-Malicious
+107.189.31.250,FranTech Solutions,"Luxembourg, Luxembourg, Luxembourg",2,7,Unknown,0,Malicious
+45.95.168.5,MAXKO d.o.o.,"Nyíregyháza, Szabolcs-Szatmár-Bereg, Hungary",0,0,Unknown,0,Non-Malicious
+178.20.55.16,Ielo-liazo Services SAS,"Fillière, Auvergne-Rhône-Alpes, France",11,50,Unknown,100,Malicious
+185.220.101.30,Stiftung Erneuerbare Freiheit,"Brandenburg, Brandenburg, Germany",12,50,Unknown,100,Malicious
+185.100.87.74,FlokiNET Ltd,"Bucharest, București, Romania",0,0,Unknown,0,Non-Malicious
+185.56.80.65,NFOrce Entertainment BV,"Victoria, La Rivière Anglaise, Seychelles",8,50,Unknown,0,Malicious
+46.101.89.28,"DigitalOcean, LLC","Slough, England, United Kingdom",0,0,Unknown,0,Non-Malicious
+144.217.60.211,OVH Hosting,"Beauharnois, Quebec, Canada",1,34,Unknown,0,Malicious
