@@ -50,6 +50,10 @@ The output file will contain the following columns:
 - **AbuseIPDB Confidence Score** – Confidence score (0-100).
 - **Category** – Final classification (**Malicious** / **Non-Malicious**).
 
+##🔥 ASCII Banner
+
+When you run IPREPUTO, you will see this banner:
+![image](https://github.com/user-attachments/assets/de6ac23a-b1ff-441c-9377-6b7141390f23)
 
 
 ## 🛡 Requirements
