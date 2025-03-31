@@ -15,7 +15,7 @@ IPREPUTO is an advanced command-line tool designed to analyze the reputation of 
 
 ### 1️⃣ Clone the Repository
 ```bash
-[git clone https://github.com/yourusername/ipreputo.git](https://github.com/anandhu2231/ipreputo.git)
+git clone https://github.com/anandhu2231/ipreputo.git
 cd ipreputo
 ```
 
